@@ -1,1 +1,1 @@
-#hello, world
+# Javascript Vanilla projects
